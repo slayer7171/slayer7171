@@ -54,9 +54,9 @@ img.halloween {
     height: auto;
 	float: right;
 } video {
-  margin-left: 48vw;
+  margin-left: 47vw;
   transform: translate(-50%);
-  width:  450x;
+  width:  440x;
   height: 400px;
 }
 * {box-sizing:border-box}
